@@ -1,0 +1,10 @@
+server:
+  port: 8005
+
+spring:
+  application:
+    name: meeting-room-booking
+
+logging:
+  level:
+    com.meeting: DEBUG
